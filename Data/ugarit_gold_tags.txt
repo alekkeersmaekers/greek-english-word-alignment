@@ -1,0 +1,274 @@
+noun verb noun noun noun adjective PUNCT relative adjective adjective noun verb PUNCT adjective coordinator adjective noun noun verb noun PUNCT demonstrative coordinator noun verb noun noun coordinator indefinite PUNCT noun coordinator verb noun PUNCT preposition relative particle article adjective verb participle noun coordinator noun noun coordinator adjective noun PUNCT
+interrogative coordinator particle personal noun noun verb infinitive PUNCT
+noun coordinator noun noun PUNCT
+article particle noun participle noun preposition noun verb adjective PUNCT verb coordinator noun PUNCT conjunction article noun verb noun noun PUNCT
+article particle verb adjective preposition noun adjective participle coordinator noun participle coordinator adjective noun PUNCT noun participle preposition noun adjective noun adjective preposition noun PUNCT coordinator verb indefinite adjective PUNCT noun coordinator adverb numeral PUNCT noun noun PUNCT
+noun coordinator coordinator indefinite adjective adjective PUNCT personal particle noun verb adjective noun participle infinitive noun noun PUNCT adverb coordinator adverb infinitive PUNCT
+noun coordinator personal verb adjective PUNCT article coordinator noun infinitive PUNCT participle noun noun adjective noun PUNCT
+adverb indefinite particle indefinite verb adjective infinitive coordinator noun coordinator adjective infinitive noun PUNCT
+coordinator adverb noun noun verb noun PUNCT coordinator adverb verb PUNCT adjective coordinator preposition noun verb PUNCT
+adverb personal noun adjective personal preposition noun verb coordinator adverb participle coordinator adverb adverb participle PUNCT adverb adverb personal adverb verb noun coordinator noun noun PUNCT
+article coordinator personal adverb verb PUNCT
+conjunction personal coordinator noun verb adjective preposition noun preposition noun preposition noun noun participle coordinator adjective noun participle PUNCT
+coordinator verb adverb personal verb adjective conjunction particle verb PUNCT
+conjunction verb PUNCT verb coordinator article noun coordinator verb noun PUNCT
+verb coordinator adjective preposition noun adjective noun PUNCT
+adjective coordinator adverb adverb participle verb article adjective noun noun PUNCT article adjective verb noun PUNCT
+verb personal adjective PUNCT relative noun verb noun coordinator adjective noun coordinator adverb verb PUNCT noun conjunction adverb personal adjective preposition noun verb PUNCT coordinator conjunction particle adverb personal preposition adjective noun verb noun coordinator noun PUNCT article coordinator personal verb noun PUNCT
+verb noun adjective noun adjective noun PUNCT
+conjunction verb participle PUNCT article coordinator verb noun noun PUNCT verb coordinator preposition noun noun participle noun PUNCT noun noun participle adjective coordinator noun PUNCT
+verb coordinator particle noun preposition noun participle PUNCT demonstrative participle PUNCT
+article coordinator verb noun participle PUNCT
+verb adverb adverb noun PUNCT preposition coordinator noun verb PUNCT
+adjective coordinator noun verb adjective noun PUNCT
+noun particle adjective verb coordinator noun adjective PUNCT coordinator adverb demonstrative noun adjective participle verb PUNCT
+adverb coordinator noun noun verb adjective PUNCT
+adverb particle preposition noun verb noun noun PUNCT article adjective coordinator noun coordinator verb noun noun PUNCT
+article particle preposition noun verb noun adjective noun PUNCT
+verb particle noun PUNCT conjunction particle participle verb PUNCT
+article coordinator conjunction particle verb adjective coordinator verb PUNCT article coordinator participle verb noun adjective noun PUNCT
+noun adverb personal participle verb adverb infinitive PUNCT conjunction particle noun particle verb PUNCT conjunction particle adverb noun coordinator verb coordinator noun adjective PUNCT
+coordinator particle particle indefinite noun verb coordinator noun coordinator coordinator noun PUNCT coordinator particle coordinator noun preposition noun verb PUNCT relative particle verb relative indefinite demonstrative verb noun noun PUNCT adverb particle article particle noun verb coordinator noun PUNCT conjunction particle adverb noun noun noun coordinator adjective verb participle personal preposition noun infinitive PUNCT
+particle article particle conjunction participle preposition particle verb PUNCT
+article coordinator verb noun noun noun adverb adjective PUNCT relative verb article coordinator participle article coordinator participle adverb coordinator participle PUNCT coordinator noun verb adjective adjective adverb adjective preposition noun PUNCT article personal verb noun noun PUNCT
+article personal adverb participle verb coordinator verb PUNCT
+interjection noun verb personal noun adjective infinitive noun noun noun noun PUNCT
+personal particle personal verb PUNCT
+personal coordinator verb coordinator personal verb particle particle personal adjective noun coordinator noun infinitive PUNCT
+particle particle verb noun infinitive PUNCT relative adjective indefinite adjective verb coordinator personal verb adjective PUNCT
+adjective particle noun conjunction verb noun adjective PUNCT
+conjunction particle particle coordinator noun particle coordinator adverb verb PUNCT coordinator coordinator coordinator adverb verb noun PUNCT conjunction verb PUNCT preposition noun adjective PUNCT
+personal coordinator verb conjunction personal verb PUNCT
+article coordinator participle verb noun adjective noun PUNCT
+participle adverb verb noun relative indefinite verb PUNCT
+adverb preposition particle noun noun adjective PUNCT relative coordinator personal noun participle noun noun verb PUNCT adverb indefinite personal participle coordinator preposition noun participle personal adjective preposition noun adjective noun verb adjective noun PUNCT adverb coordinator conjunction noun verb PUNCT relative adverb adjective adjective adjective verb infinitive PUNCT
+coordinator adverb particle verb coordinator verb noun adjective PUNCT
+adverb coordinator particle article particle noun verb adverb coordinator noun PUNCT coordinator preposition noun relative verb noun PUNCT adverb coordinator verb noun coordinator adverb verb noun PUNCT adverb particle noun verb adjective coordinator adverb verb PUNCT
+adverb coordinator article particle conjunction noun adjective noun verb conjunction particle preposition noun adjective infinitive adjective noun adjective adjective PUNCT infinitive coordinator adjective noun preposition noun PUNCT
+adverb particle personal participle verb PUNCT
+particle article particle conjunction participle preposition particle verb PUNCT
+article coordinator verb noun noun adjective noun noun participle PUNCT
+noun coordinator adjective noun adjective verb PUNCT noun coordinator personal noun participle verb PUNCT
+noun adjective adjective participle verb PUNCT
+noun adjective adverb adverb adverb personal article adjective verb PUNCT
+adverb personal article adjective verb adjective noun infinitive PUNCT adjective coordinator coordinator indefinite adverb verb noun adverb coordinator verb PUNCT
+coordinator adverb preposition noun participle verb conjunction particle demonstrative preposition personal adjective noun verb PUNCT conjunction personal noun noun adjective noun adverb verb infinitive PUNCT conjunction adjective verb demonstrative adverb infinitive PUNCT
+coordinator particle particle noun verb adjective noun PUNCT conjunction adverb personal verb adjective PUNCT adverb noun adverb coordinator noun PUNCT adverb coordinator particle noun coordinator indefinite noun PUNCT
+coordinator coordinator conjunction verb infinitive adverb conjunction article particle adjective PUNCT
+verb personal noun adjective infinitive coordinator infinitive PUNCT
+particle personal noun adverb verb conjunction adverb adjective adjective adjective verb PUNCT conjunction adverb coordinator verb PUNCT
+verb particle article particle indefinite relative personal noun verb adverb PUNCT
+article coordinator verb adverb adjective adjective noun PUNCT
+noun adjective adjective indefinite PUNCT adverb particle personal verb noun adjective adjective PUNCT
+adverb coordinator indefinite adverb verb adjective participle adjective PUNCT
+coordinator article particle noun verb PUNCT article verb PUNCT noun coordinator adverb verb adjective demonstrative infinitive PUNCT
+coordinator personal particle adverb demonstrative noun verb PUNCT
+particle adjective adjective adjective coordinator verb PUNCT conjunction particle adverb noun verb noun noun adjective infinitive PUNCT
+article coordinator participle verb noun noun PUNCT
+adverb coordinator adverb adjective adverb participle adjective noun verb noun PUNCT conjunction adverb verb adverb coordinator personal verb PUNCT
+particle verb conjunction demonstrative verb noun PUNCT particle personal adverb infinitive participle PUNCT verb coordinator personal demonstrative infinitive PUNCT
+coordinator conjunction particle verb noun adjective adjective participle preposition noun conjunction adjective verb PUNCT
+conjunction coordinator particle adverb verb personal coordinator particle demonstrative verb coordinator adjective coordinator noun participle noun PUNCT coordinator noun verb participle PUNCT
+article coordinator particle verb relative particle verb PUNCT
+coordinator particle particle demonstrative verb coordinator adverb PUNCT adverb coordinator particle noun adjective verb preposition noun adjective PUNCT preposition coordinator noun adverb verb PUNCT preposition coordinator noun verb PUNCT preposition coordinator demonstrative noun adjective verb PUNCT
+numeral coordinator indefinite noun noun adjective verb PUNCT coordinator noun coordinator noun coordinator adjective noun coordinator personal noun indefinite adjective noun PUNCT conjunction personal adjective verb adjective participle PUNCT
+article coordinator particle adverb participle verb noun adjective noun PUNCT
+interjection personal noun participle adjective adverb indefinite personal adjective noun verb adjective coordinator noun infinitive coordinator noun adverb infinitive PUNCT
+adverb particle personal noun preposition verb noun adverb participle PUNCT conjunction adverb indefinite personal adjective verb PUNCT
+adverb particle adverb adjective noun verb adverb coordinator particle noun PUNCT adverb coordinator adverb preposition noun adjective noun noun verb PUNCT conjunction particle adverb adjective preposition noun coordinator adjective noun coordinator adjective PUNCT
+coordinator personal interjection adjective adjective adverb verb conjunction personal verb PUNCT noun participle noun personal coordinator noun preposition noun PUNCT
+article adverb indefinite verb adverb coordinator verb PUNCT
+coordinator particle personal noun demonstrative infinitive verb PUNCT relative preposition adjective verb PUNCT verb coordinator personal noun adjective PUNCT
+adverb particle personal adverb adjective verb noun conjunction adjective noun verb adverb participle noun PUNCT
+coordinator article particle adjective adjective noun noun adjective verb PUNCT
+particle conjunction adverb noun verb PUNCT personal article noun adjective adjective PUNCT personal coordinator adjective coordinator adjective coordinator verb participle preposition noun PUNCT conjunction particle verb participle PUNCT
+adverb coordinator verb noun coordinator PUNCT conjunction particle adjective adjective verb adverb infinitive preposition noun adjective PUNCT adverb coordinator personal verb adverb adjective participle noun coordinator noun infinitive PUNCT
+article coordinator verb adverb noun noun noun PUNCT
+verb adverb conjunction personal noun verb PUNCT adverb coordinator personal personal verb preposition personal infinitive PUNCT
+preposition personal coordinator indefinite relative particle personal verb PUNCT adverb coordinator noun noun PUNCT
+adjective coordinator personal verb adjective noun PUNCT
+adverb particle personal noun coordinator adjective noun coordinator noun coordinator PUNCT
+conjunction adverb adjective verb PUNCT noun adverb personal article particle verb PUNCT
+adverb participle preposition noun coordinator adjective coordinator adjective noun noun verb PUNCT personal coordinator personal adverb verb PUNCT adverb coordinator verb participle PUNCT
+verb coordinator personal adverb PUNCT
+conjunction personal verb noun noun noun PUNCT article particle personal preposition noun coordinator adjective coordinator adjective noun verb PUNCT personal coordinator particle verb noun adjective demonstrative participle noun coordinator article adjective noun conjunction adverb verb relative adjective verb personal PUNCT verb coordinator coordinator indefinite adjective personal infinitive coordinator infinitive adverb PUNCT
+conjunction verb PUNCT
+noun coordinator noun verb PUNCT preposition coordinator personal noun noun adjective adverb verb PUNCT coordinator article particle noun adjective participle preposition noun article particle verb PUNCT article coordinator noun verb PUNCT coordinator noun verb verb coordinator noun PUNCT
+preposition article demonstrative verb preposition noun coordinator preposition noun PUNCT verb coordinator preposition noun adjective noun PUNCT verb coordinator noun adverb PUNCT
+adverb particle verb noun adjective noun indefinite adverb noun participle coordinator participle coordinator PUNCT
+verb coordinator adverb PUNCT adjective coordinator noun verb noun adjective participle PUNCT
+article coordinator indefinite adverb indefinite verb PUNCT
+verb coordinator noun PUNCT preposition coordinator verb PUNCT adverb coordinator verb noun noun PUNCT
+adjective coordinator personal noun verb PUNCT
+coordinator personal participle noun adjective verb PUNCT
+interrogative adverb adjective noun noun verb PUNCT
+particle conjunction noun verb noun noun PUNCT
+coordinator adverb personal verb PUNCT article coordinator coordinator infinitive verb PUNCT
+adjective noun adverb particle adverb noun verb PUNCT
+article coordinator adverb verb noun adjective noun PUNCT
+verb personal participle article adjective noun PUNCT conjunction particle verb PUNCT adverb PUNCT
+adverb coordinator personal verb noun adjective noun indefinite adverb noun participle coordinator participle coordinator PUNCT
+coordinator particle verb noun PUNCT adverb coordinator noun verb noun PUNCT
+coordinator particle noun particle verb conjunction verb particle PUNCT
+adverb particle verb PUNCT article coordinator coordinator participle verb PUNCT
+coordinator adverb personal adverb demonstrative verb adjective noun noun preposition demonstrative PUNCT
+personal coordinator verb PUNCT verb coordinator personal PUNCT
+article coordinator participle verb noun adjective noun PUNCT
+verb particle adjective particle noun noun infinitive coordinator adverb adverb noun participle PUNCT
+conjunction particle adjective PUNCT
+relative particle noun verb adverb coordinator verb demonstrative PUNCT
+verb coordinator preposition adjective noun verb noun adjective PUNCT adverb coordinator preposition noun verb adjective noun PUNCT adverb coordinator verb noun noun PUNCT
+article coordinator noun coordinator verb noun preposition adjective noun preposition noun indefinite PUNCT
+noun coordinator adverb adjective noun noun verb PUNCT coordinator adverb particle verb noun PUNCT
+adjective PUNCT noun noun participle PUNCT noun coordinator noun PUNCT coordinator adverb preposition noun adverb noun infinitive adverb coordinator noun coordinator infinitive preposition noun adjective verb noun PUNCT
+article coordinator personal noun verb infinitive PUNCT
+particle adjective adjective verb preposition noun adjective adjective noun infinitive relative indefinite personal noun verb PUNCT
+adjective noun conjunction adjective verb PUNCT
+particle particle particle noun adverb adjective verb PUNCT
+coordinator adverb personal verb coordinator preposition adjective noun verb PUNCT
+interjection preposition demonstrative noun PUNCT article particle adverb adverb noun coordinator noun verb PUNCT conjunction particle adjective noun preposition noun verb PUNCT adverb coordinator verb PUNCT
+preposition particle particle personal noun verb noun coordinator coordinator noun PUNCT
+adverb adverb personal noun adjective preposition noun verb noun PUNCT relative coordinator noun preposition noun verb PUNCT
+article coordinator personal adjective verb noun PUNCT
+particle adverb noun noun verb noun adjective adjective PUNCT
+adverb coordinator adverb indefinite verb participle adverb infinitive PUNCT conjunction particle adjective preposition noun adjective participle verb PUNCT
+personal coordinator adverb noun verb participle relative coordinator adjective adjective indefinite verb PUNCT
+conjunction verb noun PUNCT preposition coordinator noun verb noun adjective noun participle PUNCT verb coordinator demonstrative PUNCT
+noun coordinator adverb verb PUNCT
+article coordinator noun adjective verb adjective adjective noun PUNCT article coordinator preposition noun noun adjective verb noun PUNCT
+article coordinator adverb numeral particle noun adjective noun verb PUNCT relative personal adverb adverb verb coordinator verb preposition noun adjective PUNCT preposition coordinator adjective verb PUNCT
+article personal adverb participle verb coordinator verb PUNCT
+interjection interjection particle adjective noun adjective noun verb PUNCT
+particle particle verb noun noun coordinator noun indefinite coordinator noun adjective particle verb noun conjunction personal demonstrative indefinite verb participle PUNCT relative preposition particle noun noun PUNCT preposition coordinator verb infinitive PUNCT
+coordinator verb PUNCT
+indefinite coordinator adjective verb personal PUNCT
+adverb particle adverb personal coordinator adjective coordinator adverb personal noun verb PUNCT coordinator adverb adverb personal article particle verb PUNCT
+adverb particle particle demonstrative verb noun adverb coordinator verb PUNCT relative noun coordinator noun coordinator noun noun noun coordinator noun coordinator coordinator adjective noun noun coordinator noun PUNCT adjective adjective PUNCT
+adjective particle demonstrative adjective verb noun PUNCT
+adjective particle verb coordinator adjective verb noun adjective coordinator adverb verb PUNCT
+conjunction personal coordinator preposition personal coordinator preposition personal article adjective adjective verb adverb verb indefinite article noun article preposition personal noun indefinite article adjective infinitive PUNCT coordinator article noun article noun preposition article noun conjunction verb participle adverb infinitive PUNCT coordinator demonstrative article noun article noun conjunction verb PUNCT coordinator article adjective particle demonstrative PUNCT conjunction noun article noun PUNCT noun indefinite coordinator noun article adjective infinitive personal infinitive PUNCT relative personal adverb verb coordinator personal personal PUNCT relative coordinator participle coordinator adjective conjunction indefinite coordinator adjective personal noun verb PUNCT
+demonstrative particle PUNCT interjection noun PUNCT verb adverb adverb article adjective coordinator adjective verb personal coordinator coordinator personal PUNCT
+coordinator verb PUNCT adverb coordinator coordinator infinitive adverb noun coordinator infinitive PUNCT numeral coordinator noun PUNCT article particle participle noun indefinite demonstrative verb infinitive PUNCT conjunction coordinator adverb verb PUNCT adjective coordinator adverb relative particle PUNCT
+coordinator indefinite noun PUNCT interjection noun PUNCT verb personal coordinator adverb adverb verb PUNCT
+noun PUNCT interrogative adverb verb PUNCT interjection noun PUNCT coordinator adverb adverb adverb verb PUNCT
+noun PUNCT adverb particle particle PUNCT
+noun PUNCT adverb adverb PUNCT
+noun PUNCT noun adjective PUNCT
+noun PUNCT verb conjunction verb personal article article noun noun infinitive PUNCT
+noun PUNCT adjective adverb personal verb PUNCT interjection noun PUNCT preposition article adverb adverb infinitive PUNCT coordinator indefinite coordinator verb preposition personal PUNCT
+noun PUNCT adverb coordinator verb coordinator adverb PUNCT
+noun PUNCT adverb adverb PUNCT
+noun PUNCT adverb adverb adverb adverb verb personal PUNCT coordinator noun verb PUNCT
+noun PUNCT adverb preposition article noun PUNCT interjection noun PUNCT coordinator particle demonstrative verb preposition demonstrative coordinator noun coordinator noun infinitive PUNCT coordinator coordinator personal adverb verb participle conjunction adverb verb PUNCT coordinator adverb personal adverb verb conjunction conjunction adjective verb PUNCT
+coordinator adverb particle particle personal coordinator adverb preposition indefinite article noun verb article noun PUNCT adjective coordinator adverb preposition article adverb participle noun PUNCT conjunction adverb demonstrative coordinator adverb verb PUNCT
+noun PUNCT coordinator particle particle PUNCT interjection noun PUNCT adjective verb infinitive demonstrative participle conjunction verb adverb infinitive PUNCT
+noun PUNCT coordinator indefinite PUNCT interjection noun PUNCT demonstrative preposition demonstrative noun verb PUNCT coordinator indefinite demonstrative verb article noun article adverb adverb infinitive article participle noun PUNCT
+noun PUNCT verb demonstrative PUNCT coordinator interrogative particle adverb adverb verb PUNCT
+noun PUNCT noun PUNCT interjection noun PUNCT participle adjective PUNCT adverb personal PUNCT conjunction personal verb PUNCT coordinator personal coordinator article adjective adjective indefinite coordinator adjective coordinator adjective PUNCT relative personal PUNCT conjunction personal verb PUNCT preposition article adjective particle verb PUNCT
+noun PUNCT interrogative demonstrative PUNCT coordinator article noun verb preposition noun PUNCT relative verb participle infinitive personal PUNCT
+noun PUNCT adverb particle verb PUNCT coordinator infinitive particle personal verb adverb preposition relative verb participle indefinite preposition noun coordinator participle adverb demonstrative PUNCT
+adjective particle preposition demonstrative article noun conjunction verb adverb PUNCT coordinator noun particle preposition adverb verb PUNCT interjection noun PUNCT article noun personal infinitive PUNCT
+noun PUNCT coordinator PUNCT interjection noun PUNCT noun adjective PUNCT conjunction adverb article noun adjective PUNCT adverb verb PUNCT adverb particle verb infinitive demonstrative adverb PUNCT
+noun PUNCT adverb demonstrative verb PUNCT
+noun PUNCT personal personal verb PUNCT article particle adverb adjective verb personal infinitive coordinator adjective particle verb article noun PUNCT
+noun PUNCT verb particle particle particle article demonstrative noun PUNCT
+noun PUNCT adverb particle article participle noun verb demonstrative infinitive coordinator article indefinite PUNCT
+verb coordinator preposition indefinite noun relative verb adjective adverb demonstrative article noun PUNCT coordinator verb preposition noun indefinite adverb infinitive personal PUNCT
+noun PUNCT verb coordinator particle interrogative article noun PUNCT
+noun PUNCT verb indefinite personal noun participle adjective coordinator adjective PUNCT adjective noun participle PUNCT infinitive personal coordinator infinitive PUNCT interjection noun PUNCT PUNCT noun particle adjective noun adjective verb PUNCT PUNCT
+noun PUNCT adjective article noun PUNCT interjection noun PUNCT
+noun PUNCT adjective particle particle PUNCT conjunction particle personal verb PUNCT interjection noun PUNCT
+noun PUNCT adverb particle PUNCT conjunction verb PUNCT
+coordinator PUNCT interjection adjective noun PUNCT adverb coordinator adverb personal verb coordinator verb PUNCT conjunction personal PUNCT conjunction personal verb PUNCT adverb numeral noun verb PUNCT coordinator preposition particle article infinitive demonstrative adjective relative personal indefinite adverb adverb verb PUNCT adverb coordinator coordinator adjective verb PUNCT relative personal coordinator personal adverb adverb verb PUNCT conjunction relative particle participle personal infinitive conjunction verb infinitive noun PUNCT infinitive PUNCT
+particle interrogative particle adjective verb demonstrative noun coordinator infinitive noun preposition adjective infinitive coordinator adjective PUNCT adverb particle verb article adjective conjunction personal demonstrative adverb verb infinitive adverb personal participle PUNCT
+noun PUNCT coordinator interrogative personal PUNCT interjection adjective noun PUNCT adverb article article adjective noun verb PUNCT article particle adjective PUNCT relative adverb adjective infinitive PUNCT verb demonstrative adverb infinitive conjunction particle verb PUNCT
+noun PUNCT coordinator verb particle conjunction noun PUNCT interjection noun PUNCT coordinator article article adjective noun infinitive PUNCT demonstrative coordinator adjective article participle adverb conjunction relative particle verb article adjective adverb article adjective article adjective infinitive coordinator article adjective adverb PUNCT conjunction indefinite preposition demonstrative participle verb PUNCT
+noun PUNCT conjunction particle verb PUNCT interjection noun PUNCT relative particle infinitive article adjective article adjective adjective infinitive PUNCT conjunction relative particle verb coordinator adjective article adjective PUNCT coordinator adverb particle verb PUNCT adverb coordinator indefinite relative particle PUNCT coordinator particle adjective coordinator adjective adjective infinitive PUNCT verb coordinator demonstrative relative particle verb PUNCT
+noun PUNCT demonstrative particle particle adverb verb PUNCT demonstrative coordinator PUNCT interjection noun PUNCT verb personal PUNCT particle particle adverb personal verb coordinator article indefinite adjective adverb PUNCT conjunction personal adverb verb PUNCT article noun personal noun verb conjunction personal adverb participle PUNCT coordinator verb coordinator coordinator indefinite article noun infinitive coordinator adjective noun PUNCT coordinator coordinator indefinite indefinite preposition demonstrative infinitive PUNCT conjunction particle indefinite demonstrative verb PUNCT verb demonstrative infinitive PUNCT personal particle adverb adjective verb participle personal infinitive demonstrative article noun coordinator conjunction verb adverb demonstrative adjective PUNCT
+coordinator personal verb coordinator adverb adverb verb PUNCT
+noun PUNCT coordinator demonstrative verb PUNCT interjection noun PUNCT coordinator indefinite adjective PUNCT
+noun PUNCT coordinator particle demonstrative verb PUNCT coordinator particle coordinator adjective noun verb relative verb participle indefinite infinitive personal coordinator infinitive adverb PUNCT
+adverb adverb verb demonstrative article noun conjunction adjective PUNCT coordinator indefinite particle verb preposition demonstrative adjective noun PUNCT
+personal coordinator verb particle article adjective noun PUNCT conjunction personal verb PUNCT adjective PUNCT adverb coordinator conjunction indefinite personal participle adverb verb infinitive infinitive adjective PUNCT adjective demonstrative adverb adjective infinitive PUNCT numeral coordinator coordinator verb preposition demonstrative demonstrative noun adjective PUNCT noun article adjective PUNCT adjective coordinator coordinator noun coordinator indefinite adjective adverb PUNCT
+conjunction PUNCT relative verb PUNCT coordinator demonstrative participle verb personal infinitive PUNCT coordinator PUNCT relative verb preposition article noun PUNCT adjective personal verb conjunction adverb particle verb participle relative verb personal PUNCT
+adverb particle particle coordinator adverb adverb particle verb verb personal PUNCT conjunction coordinator verb preposition noun infinitive PUNCT verb personal adverb adjective relative personal preposition adjective verb coordinator noun personal verb PUNCT conjunction personal indefinite infinitive article preposition noun PUNCT
+adverb coordinator PUNCT interjection noun PUNCT coordinator adjective personal verb infinitive noun PUNCT personal infinitive PUNCT participle infinitive PUNCT coordinator demonstrative verb preposition personal infinitive relative particle coordinator article adjective personal verb coordinator coordinator verb personal infinitive participle PUNCT
+preposition coordinator demonstrative coordinator article noun article personal personal verb infinitive PUNCT relative personal participle coordinator infinitive coordinator infinitive verb participle PUNCT coordinator article adjective noun relative particle verb demonstrative verb PUNCT verb coordinator PUNCT conjunction article participle PUNCT demonstrative relative verb infinitive preposition article noun preposition article adjective PUNCT
+coordinator particle adverb verb infinitive noun coordinator infinitive coordinator participle coordinator participle PUNCT personal coordinator personal verb article adjective infinitive PUNCT verb coordinator PUNCT relative particle noun adjective coordinator adjective verb PUNCT demonstrative infinitive PUNCT participle particle particle noun preposition indefinite article noun infinitive PUNCT
+noun PUNCT interjection adjective noun PUNCT article noun personal adjective adjective conjunction preposition indefinite noun verb PUNCT conjunction coordinator adverb PUNCT relative adjective demonstrative adjective PUNCT
+infinitive particle verb personal adverb demonstrative adjective adverb adverb PUNCT conjunction personal adverb adverb adjective coordinator coordinator adverb demonstrative relative article adjective indefinite indefinite infinitive coordinator article noun relative particle personal participle adjective verb PUNCT
+article particle noun relative preposition article preposition verb adverb verb adverb infinitive PUNCT conjunction personal demonstrative article noun verb PUNCT coordinator adverb indefinite adjective verb personal PUNCT coordinator article demonstrative verb coordinator verb relative coordinator adverb PUNCT
+relative conjunction adverb adjective verb infinitive preposition article participle PUNCT adverb verb conjunction adverb adverb personal verb PUNCT coordinator conjunction adjective article adverb participle article article adjective noun conjunction noun personal verb PUNCT noun coordinator noun participle coordinator noun noun PUNCT
+adverb particle particle adverb verb demonstrative PUNCT conjunction adverb particle demonstrative article noun verb PUNCT relative personal verb preposition article noun PUNCT particle adverb verb adverb coordinator adverb PUNCT conjunction article particle verb article noun infinitive article noun PUNCT article coordinator adverb PUNCT
+coordinator conjunction particle personal infinitive infinitive adverb verb PUNCT adverb coordinator adjective particle verb conjunction adverb preposition noun verb PUNCT verb coordinator noun coordinator noun conjunction adverb PUNCT verb coordinator personal infinitive PUNCT interjection noun PUNCT adverb preposition personal conjunction indefinite personal adjective verb PUNCT conjunction adverb verb PUNCT coordinator article demonstrative PUNCT coordinator verb infinitive coordinator verb demonstrative PUNCT
+verb coordinator adverb PUNCT conjunction verb PUNCT adverb adverb preposition article participle indefinite infinitive PUNCT conjunction adverb personal verb PUNCT conjunction article noun relative article noun verb verb article particle preposition adjective infinitive PUNCT article coordinator adverb PUNCT
+demonstrative preposition noun PUNCT interjection noun PUNCT adverb verb adverb personal infinitive PUNCT PUNCT
+personal particle PUNCT relative particle adjective PUNCT preposition verb article infinitive infinitive adverb PUNCT coordinator adverb particle personal verb article participle noun PUNCT verb particle PUNCT adverb adverb verb personal infinitive conjunction adverb indefinite verb article noun article noun infinitive coordinator article particle PUNCT article coordinator adverb PUNCT coordinator indefinite coordinator article particle PUNCT article coordinator adverb PUNCT interrogative verb PUNCT demonstrative adverb adverb verb PUNCT
+noun PUNCT adverb PUNCT
+noun PUNCT particle article particle adjective infinitive PUNCT article coordinator adjective adverb PUNCT
+noun PUNCT interjection PUNCT
+noun PUNCT adjective coordinator adverb article article adjective PUNCT adjective coordinator article article adjective PUNCT
+noun PUNCT adverb coordinator adverb PUNCT
+noun PUNCT verb particle PUNCT adverb adverb article demonstrative verb PUNCT participle noun coordinator demonstrative participle particle indefinite noun noun coordinator noun coordinator noun article noun verb PUNCT coordinator numeral adjective demonstrative relative particle verb noun coordinator noun participle PUNCT
+noun PUNCT numeral adjective PUNCT
+noun PUNCT particle infinitive verb article noun coordinator infinitive article noun article article numeral demonstrative coordinator adverb article article adjective PUNCT
+noun PUNCT adjective particle PUNCT
+noun PUNCT adverb particle demonstrative adjective coordinator adjective coordinator adjective particle coordinator adjective PUNCT adverb particle article numeral verb PUNCT article noun coordinator participle PUNCT adverb coordinator adverb adjective article indefinite PUNCT
+noun PUNCT verb demonstrative PUNCT
+noun PUNCT interjection PUNCT participle coordinator article numeral coordinator participle demonstrative article noun coordinator article noun PUNCT participle coordinator article article adjective noun coordinator indefinite participle PUNCT particle indefinite adjective verb PUNCT
+noun PUNCT adverb particle adverb PUNCT
+noun PUNCT interrogative coordinator verb article adjective demonstrative PUNCT coordinator adverb verb PUNCT coordinator preposition interrogative article article participle PUNCT
+noun PUNCT adjective conjunction preposition article noun PUNCT demonstrative particle verb PUNCT
+noun PUNCT adverb verb PUNCT particle coordinator indefinite PUNCT interjection noun PUNCT adverb PUNCT conjunction adverb indefinite verb PUNCT coordinator particle coordinator preposition article adjective coordinator adjective coordinator adjective coordinator adjective coordinator adjective coordinator adjective PUNCT preposition relative adverb article noun personal verb PUNCT particle article article adjective noun verb personal infinitive coordinator infinitive demonstrative coordinator article article numeral PUNCT conjunction indefinite verb participle PUNCT relative verb coordinator infinitive coordinator infinitive adverb coordinator adjective article indefinite PUNCT relative conjunction adverb verb PUNCT verb demonstrative coordinator verb PUNCT relative article particle adjective adjective verb article coordinator adjective verb PUNCT coordinator indefinite verb demonstrative PUNCT
+noun PUNCT verb personal PUNCT interjection noun PUNCT
+noun PUNCT verb particle PUNCT conjunction article preposition article adjective particle adjective participle PUNCT preposition article adjective coordinator participle verb participle adverb article article participle noun PUNCT particle adjective personal verb participle demonstrative PUNCT verb coordinator adverb demonstrative noun PUNCT coordinator adverb PUNCT
+noun PUNCT interjection PUNCT
+noun PUNCT particle particle adjective personal verb preposition adjective coordinator participle noun PUNCT
+noun PUNCT adverb PUNCT
+noun PUNCT coordinator preposition demonstrative particle personal adjective participle PUNCT relative article adjective particle verb PUNCT article coordinator adjective verb PUNCT coordinator adjective verb infinitive article noun demonstrative PUNCT relative adverb verb article adjective PUNCT preposition relative article coordinator noun coordinator article noun verb PUNCT
+noun PUNCT adverb PUNCT
+noun PUNCT coordinator adjective PUNCT
+noun PUNCT adjective particle PUNCT
+noun PUNCT adverb particle PUNCT interjection adjective PUNCT adverb personal adverb adjective interrogative verb article adjective personal PUNCT coordinator conjunction article participle preposition article adjective coordinator adjective PUNCT article numeral coordinator demonstrative article noun PUNCT
+conjunction adverb particle adverb adverb adverb verb PUNCT participle article article adjective noun infinitive personal infinitive preposition article adjective coordinator adjective coordinator adjective coordinator article adjective PUNCT
+noun adverb personal verb relative noun verb preposition article adverb adverb participle infinitive adverb coordinator preposition noun PUNCT relative coordinator adverb noun PUNCT relative coordinator noun verb adverb preposition noun PUNCT coordinator relative infinitive participle article particle demonstrative coordinator adjective adverb verb PUNCT article coordinator conjunction relative noun participle verb PUNCT verb conjunction adjective coordinator coordinator adjective noun participle PUNCT
+adjective coordinator verb infinitive coordinator preposition adjective noun article particle participle coordinator adjective noun PUNCT article coordinator coordinator adverb adjective PUNCT coordinator adverb coordinator article adjective demonstrative adverb indefinite participle infinitive participle article noun PUNCT
+adverb coordinator preposition demonstrative verb conjunction participle particle verb coordinator article noun article noun coordinator article adjective article noun PUNCT coordinator indefinite coordinator article participle noun relative particle verb noun adverb particle participle demonstrative verb PUNCT indefinite particle demonstrative article noun verb infinitive adverb participle infinitive article noun coordinator article noun article participle PUNCT
+verb coordinator particle article noun adverb particle demonstrative verb article noun PUNCT verb coordinator noun preposition relative particle demonstrative verb PUNCT verb coordinator relative particle demonstrative verb PUNCT coordinator article noun particle article participle preposition demonstrative verb article noun infinitive adverb conjunction particle demonstrative verb PUNCT
+adverb particle indefinite adverb noun verb participle preposition article noun coordinator conjunction adverb infinitive coordinator conjunction adverb infinitive article noun infinitive PUNCT coordinator coordinator adjective verb article noun indefinite article adjective coordinator article participle coordinator coordinator participle preposition demonstrative PUNCT noun coordinator preposition indefinite adverb verb coordinator preposition demonstrative relative particle verb infinitive personal participle PUNCT
+conjunction particle particle demonstrative verb PUNCT adverb verb preposition demonstrative PUNCT conjunction noun participle indefinite article indefinite adjective verb noun coordinator noun infinitive PUNCT
+conjunction coordinator verb conjunction noun verb noun PUNCT relative adjective particle noun verb participle personal PUNCT adjective coordinator noun PUNCT adjective coordinator noun PUNCT preposition demonstrative particle verb infinitive adverb coordinator article adjective coordinator article adjective noun verb article noun infinitive PUNCT conjunction indefinite adverb demonstrative verb PUNCT
+noun particle verb participle infinitive article particle participle adjective noun noun PUNCT article coordinator coordinator noun PUNCT article coordinator coordinator participle adverb demonstrative PUNCT article coordinator coordinator adverb participle conjunction coordinator particle verb PUNCT coordinator adverb verb demonstrative infinitive PUNCT
+coordinator particle demonstrative article noun verb coordinator demonstrative adjective participle coordinator personal PUNCT coordinator adverb verb infinitive particle preposition demonstrative noun article preposition personal noun PUNCT conjunction infinitive indefinite coordinator indefinite infinitive demonstrative PUNCT verb coordinator noun infinitive demonstrative article indefinite demonstrative infinitive conjunction adverb article demonstrative noun infinitive infinitive PUNCT verb coordinator demonstrative noun relative coordinator infinitive noun verb PUNCT adverb particle verb indefinite infinitive preposition article noun PUNCT conjunction coordinator preposition noun conjunction coordinator preposition noun conjunction coordinator preposition noun conjunction coordinator preposition noun PUNCT
+personal particle particle conjunction adjective participle infinitive demonstrative article noun verb interrogative adverb participle noun coordinator interrogative indefinite noun participle coordinator interrogative indefinite participle noun demonstrative verb preposition article infinitive noun PUNCT
+relative particle coordinator verb coordinator infinitive verb preposition demonstrative PUNCT demonstrative verb infinitive PUNCT
+noun particle particle article noun verb infinitive noun noun noun PUNCT article coordinator noun demonstrative article noun noun verb PUNCT article coordinator noun preposition noun verb PUNCT noun coordinator verb noun infinitive PUNCT article coordinator noun demonstrative noun verb noun article noun participle noun PUNCT
+infinitive coordinator article noun verb coordinator verb adverb coordinator adverb preposition article adjective noun particle adjective PUNCT noun coordinator adjective coordinator adjective coordinator adjective PUNCT conjunction indefinite particle noun infinitive PUNCT indefinite coordinator noun infinitive article infinitive preposition PUNCT
+preposition demonstrative coordinator adverb article infinitive verb PUNCT coordinator noun conjunction coordinator preposition noun noun verb demonstrative coordinator demonstrative coordinator verb coordinator article indefinite verb conjunction particle verb PUNCT conjunction adjective demonstrative verb infinitive demonstrative article noun article preposition article noun PUNCT
+coordinator particle adverb infinitive verb coordinator noun coordinator noun infinitive PUNCT verb coordinator coordinator noun coordinator noun PUNCT noun coordinator coordinator infinitive noun coordinator infinitive adverb particle verb PUNCT
+coordinator article noun coordinator adverb noun infinitive conjunction indefinite article adjective noun verb PUNCT infinitive particle particle particle verb article adverb participle PUNCT infinitive coordinator article participle PUNCT conjunction adverb adjective infinitive indefinite preposition article noun verb article preposition noun participle PUNCT
+noun particle particle article noun coordinator article noun demonstrative participle verb PUNCT verb particle particle preposition noun noun PUNCT demonstrative coordinator verb article noun infinitive article adjective adjective participle adverb conjunction preposition article adjective noun verb PUNCT
+article particle particle adjective noun participle infinitive conjunction indefinite verb article personal noun PUNCT coordinator demonstrative article adjective conjunction verb infinitive PUNCT adverb verb demonstrative adverb infinitive coordinator infinitive PUNCT adverb noun preposition noun infinitive PUNCT adverb infinitive relative adverb adjective PUNCT adverb infinitive PUNCT adverb infinitive noun PUNCT coordinator indefinite article demonstrative adverb PUNCT conjunction coordinator indefinite demonstrative indefinite verb PUNCT noun demonstrative verb PUNCT
+article coordinator adjective noun participle verb conjunction article noun adverb demonstrative verb article noun relative adjective indefinite coordinator adjective noun infinitive PUNCT verb coordinator adverb PUNCT verb demonstrative adjective noun participle PUNCT adverb article coordinator noun coordinator indefinite noun verb PUNCT
+adverb article particle adjective coordinator article adjective coordinator article demonstrative noun coordinator noun verb preposition indefinite noun PUNCT conjunction adverb verb article demonstrative noun article article participle noun PUNCT
+verb coordinator demonstrative article noun article preposition article noun numeral noun PUNCT demonstrative coordinator verb numeral particle noun PUNCT numeral coordinator noun PUNCT indefinite adjective noun PUNCT indefinite article preposition article adjective noun participle PUNCT
+noun coordinator preposition article personal noun indefinite demonstrative verb PUNCT article particle noun adverb article noun coordinator article adjective noun PUNCT article coordinator adjective conjunction particle indefinite verb PUNCT preposition preposition article participle noun PUNCT preposition relative demonstrative verb infinitive PUNCT
+article coordinator noun coordinator verb preposition article noun preposition article adjective noun preposition article participle PUNCT demonstrative coordinator coordinator verb PUNCT conjunction adverb verb infinitive PUNCT coordinator adverb infinitive adjective PUNCT
+participle coordinator preposition indefinite demonstrative article noun verb numeral PUNCT numeral particle coordinator noun noun verb PUNCT
+coordinator preposition particle article noun preposition article adjective participle verb relative particle verb article noun adjective infinitive PUNCT preposition coordinator article noun preposition article adjective noun relative particle adverb article noun adjective verb infinitive PUNCT preposition coordinator article adjective noun relative particle verb infinitive demonstrative adverb article participle participle coordinator article participle preposition article adjective noun PUNCT verb coordinator coordinator article adjective noun participle PUNCT relative verb conjunction coordinator demonstrative article participle verb PUNCT
+relative coordinator indefinite noun verb infinitive verb PUNCT conjunction adverb adjective verb adverb verb conjunction particle adjective verb article noun PUNCT
+article particle particle noun preposition article noun participle verb participle noun PUNCT coordinator verb conjunction preposition demonstrative verb conjunction preposition personal conjunction noun participle PUNCT
+article coordinator participle demonstrative verb article adjective article noun participle demonstrative PUNCT
+verb particle particle coordinator noun preposition personal conjunction noun noun coordinator noun coordinator noun coordinator noun coordinator noun coordinator noun coordinator indefinite relative particle participle PUNCT relative coordinator particle verb demonstrative indefinite participle PUNCT verb PUNCT
+verb coordinator coordinator relative particle adverb participle verb PUNCT
+verb coordinator coordinator noun relative preposition noun verb particle personal adverb PUNCT verb coordinator adjective PUNCT noun PUNCT coordinator relative particle verb participle particle noun infinitive PUNCT adverb participle coordinator PUNCT verb coordinator demonstrative adverb PUNCT
+verb particle article adjective coordinator preposition noun particle adverb adverb infinitive coordinator preposition noun coordinator noun coordinator adjective PUNCT infinitive coordinator verb adverb article noun article noun PUNCT coordinator particle demonstrative adjective verb infinitive preposition indefinite article adjective noun PUNCT
+verb coordinator article noun coordinator noun PUNCT adjective coordinator verb preposition article infinitive infinitive demonstrative conjunction coordinator article adjective verb preposition indefinite noun adverb participle PUNCT
+verb coordinator demonstrative coordinator infinitive article participle PUNCT adjective coordinator coordinator preposition demonstrative verb conjunction verb article adjective participle article participle adverb PUNCT
+verb coordinator coordinator noun noun coordinator noun PUNCT adjective coordinator coordinator preposition demonstrative verb conjunction verb article adjective adverb adverb participle noun preposition conjunction particle verb article participle PUNCT coordinator conjunction adverb preposition noun verb article noun PUNCT coordinator preposition article noun PUNCT conjunction article participle verb PUNCT
+verb coordinator adverb noun particle noun PUNCT noun coordinator noun PUNCT infinitive coordinator PUNCT conjunction indefinite verb PUNCT noun PUNCT conjunction preposition article noun infinitive PUNCT
+preposition coordinator demonstrative verb coordinator infinitive coordinator infinitive PUNCT
+preposition particle particle numeral coordinator numeral noun preposition noun article noun demonstrative verb PUNCT preposition demonstrative coordinator preposition article noun verb PUNCT
+demonstrative coordinator adverb article noun verb adverb PUNCT numeral noun preposition relative particle preposition noun verb verb particle preposition article noun PUNCT conjunction verb PUNCT coordinator noun preposition article noun coordinator noun PUNCT verb particle demonstrative article noun adverb noun infinitive PUNCT verb coordinator coordinator article noun personal article participle infinitive conjunction indefinite verb preposition article adjective PUNCT
+coordinator conjunction particle verb PUNCT indefinite verb preposition article noun PUNCT conjunction coordinator verb noun preposition noun PUNCT verb article noun article noun PUNCT verb coordinator demonstrative adverb article noun PUNCT
+infinitive coordinator verb article participle noun coordinator preposition article noun preposition noun noun coordinator noun PUNCT adverb coordinator noun coordinator noun numeral PUNCT conjunction article particle infinitive PUNCT article coordinator PUNCT conjunction verb PUNCT preposition noun infinitive PUNCT
